@@ -1,0 +1,12 @@
+2023-07-09 04:13:51 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CRAWLER_DTO" not found; SQL statement:
+select crawlerdto0_.id as id1_0_, crawlerdto0_.announcements as announce2_0_, crawlerdto0_.data_id as data_id3_0_, crawlerdto0_.date_time as date_tim4_0_, crawlerdto0_.link as link5_0_, crawlerdto0_.title as title6_0_ from crawler_dto crawlerdto0_ where crawlerdto0_.data_id=? [42102-200]
+2023-07-09 04:13:55 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CRAWLER_DTO" not found; SQL statement:
+select crawlerdto0_.id as id1_0_, crawlerdto0_.announcements as announce2_0_, crawlerdto0_.data_id as data_id3_0_, crawlerdto0_.date_time as date_tim4_0_, crawlerdto0_.link as link5_0_, crawlerdto0_.title as title6_0_ from crawler_dto crawlerdto0_ where crawlerdto0_.data_id=? [42102-200]
+2023-07-09 04:14:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CRAWLER_DTO" not found; SQL statement:
+select crawlerdto0_.id as id1_0_, crawlerdto0_.announcements as announce2_0_, crawlerdto0_.data_id as data_id3_0_, crawlerdto0_.date_time as date_tim4_0_, crawlerdto0_.link as link5_0_, crawlerdto0_.title as title6_0_ from crawler_dto crawlerdto0_ where crawlerdto0_.data_id=? [42102-200]
+2023-07-09 04:14:05 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CRAWLER_DTO" not found; SQL statement:
+select crawlerdto0_.id as id1_0_, crawlerdto0_.announcements as announce2_0_, crawlerdto0_.data_id as data_id3_0_, crawlerdto0_.date_time as date_tim4_0_, crawlerdto0_.link as link5_0_, crawlerdto0_.title as title6_0_ from crawler_dto crawlerdto0_ where crawlerdto0_.data_id=? [42102-200]
